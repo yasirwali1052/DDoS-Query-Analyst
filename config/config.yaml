@@ -1,0 +1,3 @@
+data:
+  csv_path: "data/ddos_logs.csv"
+  chunk_size: null   # Use null or set e.g. 5000
