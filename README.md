@@ -1,8 +1,4 @@
 
- DDoS Query Analyst
-
-**DDoS Query Analyst** is a Python-based AI agent designed to analyze large-scale DDoS (Distributed Denial of Service) network logs stored in a CSV file (\~150,000 records). It leverages **LangChain** and **Google’s Gemini API** to generate efficient Pandas queries and concise reports based on natural language questions.
-
 
 ## 📌 Project Overview
 
