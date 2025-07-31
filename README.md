@@ -187,6 +187,4 @@ To exit, type `exit`.
 GitHub: [@yasirwali1052](https://github.com/yasirwali1052)
 Email: *\[yasirwali301302@gmail.com]*
 
----
 
-Let me know if you want this saved as a `README.md` file or need a version optimized for GitHub Pages or documentation tools like MkDocs.
